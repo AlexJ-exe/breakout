@@ -1,2 +1,2 @@
 # breakout
-Breakout in c using sdl2
+Breakout sdl2 using c
